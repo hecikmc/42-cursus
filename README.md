@@ -21,3 +21,5 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 
 #### Level 1
 * [Libft](https://github.com/hecikmc/libft-42cursus/tree/9df714536dec165a948e79903481f226e1510e56) - Creation of my own library with standard C functions, as well as some additional useful functions.
+
+* [ft_printf](https://github.com/hecikmc/ft_printf-42cursus) - Creating my own printf function replicating the behavior of the original.
