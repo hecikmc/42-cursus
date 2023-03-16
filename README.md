@@ -20,4 +20,4 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 ## Projects
 
 #### Level 1
-* [Libft](https://github.com/hecikmc/42-cursus/tree/main/libft) - Creation of my own library with standard C functions, as well as some additional useful functions.
+* [Libft](https://github.com/hecikmc/libft-42cursus/tree/9df714536dec165a948e79903481f226e1510e56) - Creation of my own library with standard C functions, as well as some additional useful functions.
