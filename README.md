@@ -16,6 +16,16 @@ I hope it helps you and I will be happy to answer any question if you need it, i
     </a>
 </p>
 
+<p align="center">
+    <b>
+        🔭 I’m currently working on... so long
+     </b>   
+</p>
+<p align="center">
+    <b>
+        🏃 And... Updating my GitHub profile 
+</b>   
+</p>
 
 ## Projects
 
