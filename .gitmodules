@@ -4,3 +4,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:hecikmc/ft_printf-42cursus.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:hecikmc/get_next_line-42cursus.git
