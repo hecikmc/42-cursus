@@ -34,3 +34,4 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 
 #### Level 1
 * [ft_printf](https://github.com/hecikmc/ft_printf-42cursus) - Creating my own printf function replicating the behavior of the original.
+* [get_next_line](https://github.com/hecikmc/get_next_line-42cursus/tree/cad7fbb3156e21f87c18a54a080ba28a3c6e6458) - Function that returns a line read from a file descriptor.
