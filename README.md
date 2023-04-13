@@ -39,3 +39,4 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 #### Level 2
 * [pipex](https://github.com/hecikmc/pipex-42cursus) - Creation of a program that simulates the functionality of the shell command | (pipe).
 * [push_swap](https://github.com/hecikmc/push_swap-42Cursus/tree/4b4c4a558b960b88c3e7ca3262bfca747563bd42) - Creation of a program that sorts data into a stack (int array), with a limited set of instructions
+* [so_long](https://github.com/hecikmc/so_long-42cursus/tree/3398f4dbbde2ac72e01420a945cf03ae19ca5509) - Little 2D game 🕹 (Pacman inspired)
