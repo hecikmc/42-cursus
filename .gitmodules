@@ -19,3 +19,6 @@
 [submodule "philosopher"]
 	path = philosopher
 	url = git@github.com:hecikmc/philosopher-42Cursus.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:hecikmc/minishell.git
