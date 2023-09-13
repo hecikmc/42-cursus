@@ -42,4 +42,6 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 * [so_long](https://github.com/hecikmc/so_long-42cursus/tree/3398f4dbbde2ac72e01420a945cf03ae19ca5509) - Little 2D game 🕹 (Pacman inspired)
 
 #### Level 3
-* [philosopher](https://github.com/hecikmc/philosopher-42Cursus) - Thread and mutex handling project 
+* [philosopher](https://github.com/hecikmc/philosopher-42Cursus) - Thread and mutex handling project
+* [minishell](https://github.com/hecikmc/minishell) - Program that replicates the behavior of a simple bash
+
