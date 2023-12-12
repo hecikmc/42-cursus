@@ -18,7 +18,7 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 
 <p align="center">
     <b>
-        🔭 I’m currently working on... minishell (project)
+        🔭 I’m currently working on... CPP modules
      </b>   
 </p>
 <p align="center">
