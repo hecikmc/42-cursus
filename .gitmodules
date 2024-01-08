@@ -25,3 +25,6 @@
 [submodule "CPP_Module00"]
 	path = CPP_Module00
 	url = git@github.com:hecikmc/CPP_Module00.git
+[submodule "CPP_Module01"]
+	path = CPP_Module01
+	url = git@github.com:hecikmc/CPP_Module01.git
