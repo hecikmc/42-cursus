@@ -18,7 +18,7 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 
 <p align="center">
     <b>
-        🔭 I’m currently working on... minishell (project)
+        🔭 I’m currently working on... CPP modules
      </b>   
 </p>
 <p align="center">
@@ -45,3 +45,5 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 * [philosopher](https://github.com/hecikmc/philosopher-42Cursus) - Thread and mutex handling project
 * [minishell](https://github.com/hecikmc/minishell) - Program that replicates the behavior of a simple bash
 
+### Level 4
+* [CPP_Module 00](https://github.com/hecikmc/CPP_Module00) -  Time to dive into Object Oriented Programming with C++!
