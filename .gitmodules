@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:hecikmc/minishell.git
+[submodule "CPP_Module00"]
+	path = CPP_Module00
+	url = git@github.com:hecikmc/CPP_Module00.git
