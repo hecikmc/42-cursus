@@ -47,4 +47,4 @@ I hope it helps you and I will be happy to answer any question if you need it, i
 
 ### Level 4
 * [CPP_Module 00](https://github.com/hecikmc/CPP_Module00) -  Time to dive into Object Oriented Programming with C++!
-* [CPP Module 01](https://github.com/hecikmc/CPP_Module01) - Memory allocation, reference, pointers to members and the usage of the switch in CPP.
+* [CPP_Module 01](https://github.com/hecikmc/CPP_Module01) - Memory allocation, reference, pointers to members and the usage of the switch in CPP.
